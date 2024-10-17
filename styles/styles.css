@@ -1,0 +1,16 @@
+body {
+    background-color: gray;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+}
+
+.nav-link {
+    color: white;
+}
+
+.navbar {
+    background-color: darkslategray;
+}
